@@ -1,3 +1,8 @@
+# Virtual Network Peering 
+
+When connecting via peering, the VMx in these virtual networks can communicate with each other as if they are in the same network.  This should be the first choice unless you have existing VPN or ExpressRoute connections or services behind Azure Basic Load Balancers.
+
+
 ## Create Sales VNet using Azure-CLI
 
 In Cloud Shell, run the following command to create the virtual network and subnet for the Sales systems:
