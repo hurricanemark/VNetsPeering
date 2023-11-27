@@ -114,7 +114,7 @@ az network vnet create --resource-group learn-4b116c1a-4db8-4f09-b42a-9528a56f33
 ```
 
 
-## Create Reasearch VNet using Azure-CLI
+## Create Research VNet using Azure-CLI
 
 Run the following command to create the virtual network and subnet for the Research systems:
 
